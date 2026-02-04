@@ -73,7 +73,19 @@ The objective is to uncover behavioral patterns, performance differences, and ac
 - Predictive modeling was explored but excluded due to data imbalance and reliability concerns
 
 ---
-
+#### 🔧 Setup
+- Python 3.9+
+- Required libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+---
+Install dependencies:
+## ```bash
+### pip install pandas numpy matplotlib seaborn scikit-learn
+---
 ## ✅ Conclusion
 This analysis demonstrates that market sentiment significantly influences trader behavior and performance, primarily by amplifying risk-taking among specific trader segments. The findings provide practical, data-driven guidance for adaptive trading strategies under different sentiment regimes.
 
